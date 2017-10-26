@@ -1,0 +1,5 @@
+.ui-selectmenu-menu .ui-menu.customicons .ui-menu-item-wrapper {padding: 0.5em 0 0.5em 3em;}
+.ui-icon.es {background: url("/images/spain.png") 0 0 no-repeat;}
+.ui-icon.en {background: url("/images/uk.png") 0 0 no-repeat;}
+.ui-icon.pt {background: url("/images/portugal.png") 0 0 no-repeat;}
+.ui-menu .ui-menu-item{padding:3px 1em 3px 2em !important}
